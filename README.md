@@ -1,5 +1,7 @@
 # Inspirational Homepage
 
+**Live Demo:** [https://goaltracker1.netlify.app/](https://goaltracker1.netlify.app/)
+
 ## Purpose
 The Inspirational Homepage is a modern, dynamic web application designed to start your day right. It serves as a personal dashboard that provides users with a beautiful, calming background, a daily inspirational quote, the current weather, and a customized daily to-do list. The goal of this project is to replace standard blank browser tabs with an experience that promotes focus, positivity, and productivity.
 
